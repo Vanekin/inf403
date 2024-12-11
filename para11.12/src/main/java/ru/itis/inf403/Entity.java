@@ -53,6 +53,6 @@ public class Entity {
 
     public static void setFieldSize(int widht, int height) {
         fieldHeigth = height;
-        fieldWidth = widht
+        fieldWidth = widht;
     }
 }
