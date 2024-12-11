@@ -9,6 +9,6 @@ public class Ant extends Entity {
 
     @Override
     public void move() {
-
+        int direction = (int) (Math.random() * 5);
     }
 }
