@@ -10,6 +10,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>para11.12</module>
+        <module>para11.12/RodClass</module>
+        <module>lab14.12</module>
+        <module>para11.12/para17.12interface</module>
+        <module>para1101</module>
+        <module>Labirint</module>
     </modules>
 
     <properties>
