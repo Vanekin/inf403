@@ -15,6 +15,7 @@
         <module>para11.12/para17.12interface</module>
         <module>para1101</module>
         <module>Labirint</module>
+        <module>Kontrolnaya</module>
     </modules>
 
     <properties>
