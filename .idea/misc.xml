@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Kontrolnaya/pom.xml" />
         <option value="$PROJECT_DIR$/lab14.12/pom.xml" />
         <option value="$PROJECT_DIR$/para11.12/RodClasses/pom.xml" />
         <option value="$PROJECT_DIR$/para11.12/pom.xml" />

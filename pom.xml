@@ -16,6 +16,7 @@
         <module>para1101</module>
         <module>Labirint</module>
         <module>Kontrolnaya</module>
+        <module>Chernovik</module>
     </modules>
 
     <properties>
