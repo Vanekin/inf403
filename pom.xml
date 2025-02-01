@@ -16,7 +16,10 @@
         <module>para1101</module>
         <module>Labirint</module>
         <module>Kontrolnaya</module>
+<<<<<<< HEAD
         <module>Chernovik</module>
+=======
+>>>>>>> 500c07510e54bcf2b3dc7919fbdd3352ce3f3796
     </modules>
 
     <properties>
